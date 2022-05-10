@@ -1,2 +1,2 @@
 <!--gyakorlás a dolgozatra-->
-Gyakorlás
+Gyakorláss
